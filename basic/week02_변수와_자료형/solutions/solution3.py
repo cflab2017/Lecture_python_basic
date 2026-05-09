@@ -1,0 +1,5 @@
+print("[강아지 정보]")
+print(f"이름: {'초코'} (str)")
+print(f"나이: {3}년 (int)")
+print(f"몸무게: {4.2}kg (float)")
+print(f"중성화 여부: {True} (bool)")
