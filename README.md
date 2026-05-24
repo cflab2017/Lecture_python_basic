@@ -1,5 +1,9 @@
 # Lecture_python_basic
 
+> 🌐 **전체 48편 강의 보기** — [https://coding-now.com/blog/python](https://coding-now.com/blog/python)
+>
+> 한국어 무료 파이썬 강의 48편 (기초·중급·고급·실습) · Coding Now
+
 파이썬 강의 커리큘럼 + 주차별 실행 가능한 예제 코드 + 과제 + 해답.
 **기초 / 중급 / 고급 / 실습과제** 4단계 구성.
 
